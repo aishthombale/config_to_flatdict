@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: file-to-flatdict
+Version: 0.0.1
+Summary: A package to convert configuration file to flatdict
+Home-page: UNKNOWN
+Author: Aishwarya Thombale
+Author-email: aishwarya.thombale@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Config Settings
+
+This is a simple package. 
+## 1.to_flatdict(filepath-->str)
+In this package you can convert a .cfg, .yml file to flat dictionary.
+To convert the given file to flat dictionary, to_flatdict function is available.
+to write your content.
+
+

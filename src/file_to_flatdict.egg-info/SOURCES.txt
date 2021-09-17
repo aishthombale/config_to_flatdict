@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+src/file_to_flatdict/__init__.py
+src/file_to_flatdict/convert_to_flatdict.py
+src/file_to_flatdict.egg-info/PKG-INFO
+src/file_to_flatdict.egg-info/SOURCES.txt
+src/file_to_flatdict.egg-info/dependency_links.txt
+src/file_to_flatdict.egg-info/requires.txt
+src/file_to_flatdict.egg-info/top_level.txt

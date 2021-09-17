@@ -1,0 +1,6 @@
+nginx:
+  host: 127.0.0.1
+  port: 80
+mysql:
+  host: 127.0.0.1
+  port: 3306
